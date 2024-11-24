@@ -266,6 +266,3 @@ Verify Auto-Renewal
 certbot renew --dry-run
 ```
 
-If you still need help in deployment:
-
-Contact us on email : greatstackdev@gmail.com
